@@ -30,7 +30,7 @@ export default function HeadComponent({
         property="og:image"
         content={imageUrl}
       />
-      <link
+      <link 
         rel="shortcut icon"
         href={faviconUrl}
         type="image/x-icon"
